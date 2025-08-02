@@ -4,7 +4,7 @@ A Python-based tool to detect DNS cache poisoning attacks by querying multiple D
 
 ---
 
-## 🔐 Features
+##  Features
 
 - Queries multiple DNS resolvers: **Google (8.8.8.8), Cloudflare (1.1.1.1), and Quad9 (9.9.9.9)**
 - Detects suspicious mismatches using:
@@ -21,7 +21,7 @@ A Python-based tool to detect DNS cache poisoning attacks by querying multiple D
 
 ---
 
-## 🧠 Subnet and TTL Logic
+##  Subnet and TTL Logic
 
 - IPs are checked pairwise to see if they fall within the same `/16` subnet.
 - A mismatch counter is compared to a threshold to reduce false positives.
@@ -29,7 +29,7 @@ A Python-based tool to detect DNS cache poisoning attacks by querying multiple D
 
 ---
 
-## 🗂️ Files in This Repo
+##  Files in This Repo
 
 |         File          |            Description           |
 |-----------------------|----------------------------------|
@@ -40,7 +40,7 @@ A Python-based tool to detect DNS cache poisoning attacks by querying multiple D
 
 ---
 
-## 🚀 How to Run the Tool
+##  How to Run the Tool
 
 ### 1. Clone the Repository
 
