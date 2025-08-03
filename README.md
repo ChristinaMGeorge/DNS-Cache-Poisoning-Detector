@@ -40,6 +40,11 @@ A Python-based tool to detect DNS cache poisoning attacks by querying multiple D
 
 ---
 
+## ❗ Usage Terms
+
+**This repository is for academic and demonstration purposes only.  
+Reproduction, reuse, or redistribution of this work without permission is not allowed.**
+
 ##  How to Run the Tool
 
 ### 1. Clone the Repository
