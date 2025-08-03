@@ -36,7 +36,7 @@ A Python-based tool to detect DNS cache poisoning attacks by querying multiple D
 | `IOT1.py`             | Main detection script            |
 | `top_1000_domains.csv`| Trusted domain–IP mapping        |    
 | `README.md`           | Project overview and usage guide |
-| sample_output.txt`    | Sample results from a script run |
+| `sample_output.txt`   | Sample results from a script run |
 
 ---
 
